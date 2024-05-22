@@ -13,7 +13,7 @@ window.Framework = {
     ],
     settings: {
       dedicatedLoginWindow: true,
-      embedWebRTCByDefault: false,
+      embedWebRTCByDefault: true,
       hideWebRTCPopUpOption: false,
       embeddedInteractionWindow: false,
       enableCallLogs: true,
